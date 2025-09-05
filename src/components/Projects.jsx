@@ -27,7 +27,7 @@ export default function Projects() {
     className="relative group rounded-lg overflow-hidden shadow-lg bg-gray-800"
   >
     <img
-      src={project.Image} // هنا غيرت image -> Image
+      src={project.Image}
       alt={project.Title}
       className="w-full h-48 object-cover transition-transform duration-300 group-hover:scale-105"
     />
