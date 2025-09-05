@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body{
+    background-color: #000817;
+    
+}
+
+.bgc {
+ background: linear-gradient(to bottom, #000817 0%, #0a1f40 60%, #1560bd 100%);
+
+}
+.bgch
+{
+  background-color: #000817;
+}
+.btnbc
+{
+  background-color:rgb(141, 239, 121);
+}
+.textsec
+{
+  color:rgb(141, 239, 121) ;
+}
+.my-big-image {
+  width: 70rem; /* أو الحجم اللي عايزاه */
+  height: auto;
+  max-width: none;
+}
