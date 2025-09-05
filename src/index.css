@@ -22,8 +22,3 @@ body{
 {
   color:rgb(141, 239, 121) ;
 }
-.my-big-image {
-  width: 70rem; /* أو الحجم اللي عايزاه */
-  height: auto;
-  max-width: none;
-}
